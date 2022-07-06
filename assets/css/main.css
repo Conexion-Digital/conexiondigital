@@ -1,0 +1,11 @@
+body {
+    background-image: url(assets/img/logo_1920x1080.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #66999;
+    }
+    
+    footer {
+    position:fixed; bottom:2%; z-index:999999; }
